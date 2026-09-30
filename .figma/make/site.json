@@ -1,0 +1,10 @@
+{
+  "description": "Empowering rural agricultural land surveys, this interactive dashboard offers real-time GIS mapping, workflow tracking, and data management for officials and stakeholders.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
